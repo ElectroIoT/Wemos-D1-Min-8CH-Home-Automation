@@ -97,8 +97,8 @@ This is a compact and efficient **8-channel relay control board** powered by the
 
 Built using:
 
-[![EasyEDA Logo](https://upload.wikimedia.org/wikipedia/commons/3/33/EasyEDA_logo.png)](https://easyeda.com)  
-[![OSHWLab](https://oshwlab.com/images/logo-oshwlab.png)](https://oshwlab.com)
+[![EasyEDA Logo](Image/EasyEDA.png)](https://easyeda.com)  
+[![OSHWLab](Image/OSHWLab.png)](https://oshwlab.com)
 
 Thanks to **EasyEDA** and **OSHWLab** for making open-source hardware design accessible!
 
