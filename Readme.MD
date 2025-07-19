@@ -88,8 +88,9 @@ This is a compact and efficient **8-channel relay control board** powered by the
 
 ## 📫 Contact
 
-- 📧 Email: **yourname@example.com**
-- 🌐 Website: **www.yourwebsite.com**
+- 📧 Email: **electroiot.in@gmail.com**
+- 📧 Email: **electroiot@hotmail.com**
+- 🌐 Website: **https://electroiot.in**
 
 ---
 
