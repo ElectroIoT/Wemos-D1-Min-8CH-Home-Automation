@@ -95,16 +95,22 @@ This is a compact and efficient **8-channel relay control board** powered by the
 
 ## 🙏 Special Thanks
 
-Built using:
+A big thank you to the following platforms for their amazing tools and support in designing this open-source hardware project:
 
-[![EasyEDA Logo](Image/EasyEDA.png)](https://easyeda.com)  
-[![OSHWLab](Image/OSHWLab.png)](https://oshwlab.com)
+<p align="center">
+  <img src="Image/EasyEDA.png" alt="EasyEDA Logo" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="Image/OSHWLab.png" alt="OSHWLab Logo" width="100"/>
+</p>
 
-Thanks to **EasyEDA** and **OSHWLab** for making open-source hardware design accessible!
+- **[EasyEDA](https://easyeda.com/)** – for their powerful PCB design tools  
+- **[OSHWLab](https://oshwlab.com/)** – for hosting open-source hardware projects
+
+Their platforms made this project possible and easy to share with the maker community ❤️
+
+## 📬 License
+
+Open Source Hardware — OSHWA Certified
 
 ---
 
-## 📂 Project Links
-
-- 🔗 [GitHub Repository](https://github.com/YourUser/8ch-relay-home-automation)
-- 🔗 [OSHWLab Project Page](https://oshwlab.com/YourUser/8ch-relay-wemos-d1)
+Happy Making! 💡
