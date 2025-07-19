@@ -1,0 +1,110 @@
+
+# 🏠 ESP8266 Wemos D1 Mini – 8-Channel Relay Home Automation Board
+
+![3D View](./images/3D_PCB1_2025-07-19.png)
+
+This is a compact and efficient **8-channel relay control board** powered by the **Wemos D1 Mini (ESP8266)**. Ideal for **WiFi-based home automation**, this board lets you control AC appliances like lights, fans, and plugs remotely using Tasmota, ESPHome, or custom firmware.
+
+---
+
+## 🧠 Key Features
+
+✅ ESP8266-based (Wemos D1 Mini)  
+✅ 8x Relay outputs (AC/DC load control)  
+✅ Built-in ULN2803A relay driver  
+✅ 5V power supply via HLK-PM01 AC-DC module  
+✅ Indicator LEDs for each relay  
+✅ Compact and modular design  
+✅ Tasmota / ESPHome compatible
+
+---
+
+## 🖼️ Hardware Overview
+
+- **Wemos D1 Mini** for WiFi control  
+- **ULN2803A** handles relay switching  
+- **SRD-05VDC-SL-C relays** (5V, 10A rated)  
+- **HLK-PM01** provides isolated 5V from AC  
+- **8 x Indicator LEDs** with current-limiting resistors  
+- Screw terminals for AC load connection  
+- Clean silkscreen and labeled GPIOs
+
+---
+
+## 🧰 Bill of Materials (BOM)
+
+| Component | Quantity | Description | Buy Link |
+|----------|----------|-------------|----------|
+| Wemos D1 Mini | 1 | ESP8266 WiFi board | [Buy](https://www.lcsc.com/product-detail/WEMOS-D1-Mini.html) |
+| ULN2803A | 1 | Relay driver IC | [Buy](https://www.lcsc.com/product-detail/ULN2803A.html) |
+| SRD-05VDC-SL-C | 8 | 5V Relay (10A) | [Buy](https://www.lcsc.com/product-detail/SRD-05VDC-SL-C.html) |
+| HLK-PM01 | 1 | 230V to 5V AC-DC Module | [Buy](https://www.lcsc.com/product-detail/HLK-PM01.html) |
+| Resistors 150Ω | 9 | For relay LEDs | [Buy](https://www.lcsc.com/product-detail/150R.html) |
+| LEDs (3mm Blue/Red) | 9 | Relay indicators | [Buy](https://www.lcsc.com/product-detail/LED-3mm.html) |
+| Screw Terminals 5.08mm | 9 | Load connection | [Buy](https://www.lcsc.com/product-detail/WJ300V-5.0-3P.html) |
+| DIP-18 Socket | 1 | For ULN2803A | [Buy](https://www.lcsc.com/) |
+| PCB (Custom) | 1 | Designed in EasyEDA | — |
+
+📥 Full BOM: [Download BOM](./BOM_Board1_PCB1_2025-07-19.xlsx)
+
+---
+
+## 🔌 GPIO Mapping (Relay Control)
+
+| Relay | ESP8266 GPIO | Wemos Pin |
+|-------|--------------|------------|
+| RLY1 | GPIO5 | D1 |
+| RLY2 | GPIO4 | D2 |
+| RLY3 | GPIO0 | D3 |
+| RLY4 | GPIO2 | D4 |
+| RLY5 | GPIO14 | D5 |
+| RLY6 | GPIO12 | D6 |
+| RLY7 | GPIO13 | D7 |
+| RLY8 | GPIO15 | D8 |
+
+---
+
+## 📷 Demo and Views
+
+### 📐 Schematic (PDF)
+[📥 Download Schematic](./SCH_Schematic1_2025-07-19.pdf)
+
+### 🖼️ 2D PCB View
+![2D PCB View](./images/2D_PCB_Top.png)
+
+### 📸 Example Project Use
+![Demo Use](./images/demo_example.jpg)
+
+---
+
+## 💡 Use Cases
+
+- Control room lights, fans, and plugs over Wi-Fi  
+- Create a fully local smart home (with ESPHome + Home Assistant)  
+- Build DIY automation routines with MQTT or Blynk  
+- Retrofit your existing switchboard with smart capabilities
+
+---
+
+## 📫 Contact
+
+- 📧 Email: **yourname@example.com**
+- 🌐 Website: **www.yourwebsite.com**
+
+---
+
+## 🙏 Special Thanks
+
+Built using:
+
+[![EasyEDA Logo](https://upload.wikimedia.org/wikipedia/commons/3/33/EasyEDA_logo.png)](https://easyeda.com)  
+[![OSHWLab](https://oshwlab.com/images/logo-oshwlab.png)](https://oshwlab.com)
+
+Thanks to **EasyEDA** and **OSHWLab** for making open-source hardware design accessible!
+
+---
+
+## 📂 Project Links
+
+- 🔗 [GitHub Repository](https://github.com/YourUser/8ch-relay-home-automation)
+- 🔗 [OSHWLab Project Page](https://oshwlab.com/YourUser/8ch-relay-wemos-d1)
