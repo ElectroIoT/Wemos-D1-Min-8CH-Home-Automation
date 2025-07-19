@@ -5,7 +5,7 @@
 <img src="Image/3D.png" width="200"/>
 
 ### 🖼️  PCB View
-<img src="Image/PCB.png" width="200"/>
+<img src="Image/PCB.JPG" width="200"/>
 
 ### 🖼️ 2D PCB View
 <img src="Image/2D.png" width="200"/>
