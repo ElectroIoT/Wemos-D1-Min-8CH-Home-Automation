@@ -1,12 +1,16 @@
 
 # 🏠 ESP8266 Wemos D1 Mini – 8-Channel Relay Home Automation Board
 
+### 🖼️ 3D PCB View
+<img src="Image/3D.png" width="200"/>
+
+### 🖼️  PCB View
+<img src="Image/PCB.png" width="200"/>
+
 ### 🖼️ 2D PCB View
-![3D View](Image/3D.png)
+<img src="Image/2D.png" width="200"/>
 
 
-### 🖼️ 2D PCB View
-![3D View](Image/2D.png)
 
 This is a compact and efficient **8-channel relay control board** powered by the **Wemos D1 Mini (ESP8266)**. Ideal for **WiFi-based home automation**, this board lets you control AC appliances like lights, fans, and plugs remotely using Tasmota, ESPHome, or custom firmware.
 
