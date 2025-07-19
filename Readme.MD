@@ -83,6 +83,12 @@ This is a compact and efficient **8-channel relay control board** powered by the
 ### 📐 Schematic (PDF)
 [📥 Download Schematic](Schematic/Schematic.pdf)
 
+### 📐 PCB Gerber
+[📥 Download Normal](Gerber_File/Wemos-D1-8CH-HomeAutomation.zip)
+
+### 📐 PCB Gerber Color ShilkScreen
+[📥 Download Color ShilkScreen](Gerber_File/Wemos-D1-8CH-HomeAutomation_ColorShilkScreen.zip)
+
 
 
 ### 📸 Example Project Use
