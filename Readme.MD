@@ -2,13 +2,13 @@
 # 🏠 ESP8266 Wemos D1 Mini – 8-Channel Relay Home Automation Board
 
 ### 🖼️ 3D PCB View
-<img src="Image/3D.png" width="200"/>
+<img src="Image/3D.png" width="400"/>
 
 ### 🖼️  PCB View
-<img src="Image/PCB.JPG" width="200"/>
+<img src="Image/PCB.JPG" width="400"/>
 
 ### 🖼️ 2D PCB View
-<img src="Image/2D.png" width="200"/>
+<img src="Image/2D.png" width="400"/>
 
 
 
@@ -74,6 +74,11 @@ This is a compact and efficient **8-channel relay control board** powered by the
 ---
 
 ## 📷 Demo and Views
+
+
+### 🖼️ Schematic Image
+<img src="Image/Schematic.JPG" width="400"/>
+
 
 ### 📐 Schematic (PDF)
 [📥 Download Schematic](Schematic/Schematic.pdf)
