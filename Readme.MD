@@ -133,4 +133,4 @@ Open Source Hardware — OSHWA Certified
 
 ---
 
-Happy Making! 💡
+Happy Making! 💡Co-author test update
