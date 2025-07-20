@@ -1,4 +1,11 @@
 
+## 💖 Support This Project
+
+If you find this project useful, please consider sponsoring me on GitHub.  
+Your sponsorship helps cover development time, hardware costs, and keeps this project evolving!
+
+[![Sponsor ElectroIoT](https://img.shields.io/badge/Sponsor-ElectroIoT-blue?logo=github&style=for-the-badge)](https://github.com/sponsors/ElectroIoT)
+
 # 🏠 ESP8266 Wemos D1 Mini – 8-Channel Relay Home Automation Board
 
 ### 🖼️ 3D PCB View
